@@ -1,8 +1,8 @@
-const repeatString = function(text, number) {
-  answer = text * number;
-  return answer
-  repeatString(Hey, 3);
-};
-
+ const repeatString = function (string, num) {
+   if(num > 0){
+    return string.repeat(num);
+   }else
+    return "";
+  }
 // Do not edit below this line
-module.exports = repeatString;
+module.estringports = repeatString;
