@@ -1,5 +1,6 @@
 const repeatString = function(text, number) {
- return text * number;
+  answer = text * number;
+  return answer
   repeatString(Hey, 3);
 };
 
