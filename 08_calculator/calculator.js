@@ -1,4 +1,4 @@
-const add = function(num1, num2) {
+Urconst add = function(num1, num2) {
 return num1 + num2
 	
 };
@@ -15,8 +15,8 @@ const multiply = function(num1, num2) {
 return num1 * num2
 };
 
-const power = function() {
-	
+const power = function(num, power) {
+	return num1 ** power
 };
 
 const factorial = function() {
