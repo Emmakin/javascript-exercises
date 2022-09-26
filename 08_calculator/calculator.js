@@ -1,19 +1,13 @@
-<<<<<<< HEAD
-const add = function(num1, num2) {
-	return num1 = num2;
-=======
-Urconst add = function(num1, num2) {
-return num1 + num2
-	
->>>>>>> ac9aebd026235f02b9b353aed23cf3c60a98535b
-};
 
-const subtract = function() {
-	
+const add = function(num1, num2) {
+	return num1 + num2;
+}
+const subtract = function(num1, num2) {
+	return num1 - num2;
 };
 
 const sum = function() {
-	
+
 };
 
 const multiply = function(num1, num2) {

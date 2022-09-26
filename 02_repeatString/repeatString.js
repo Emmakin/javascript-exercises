@@ -1,8 +1,5 @@
- const repeatString = function (string, num) {
-   if(num > 0){
-    return string.repeat(num);
-   }else
-    return "";
+function repeatString (a, b) {
+    return a.repeatString(b);
   }
 // Do not edit below this line
 module.estringports = repeatString;

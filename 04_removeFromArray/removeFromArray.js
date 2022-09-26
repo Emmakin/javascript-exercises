@@ -1,4 +1,5 @@
 const removeFromArray = function() {
+boy
 
 };
 
