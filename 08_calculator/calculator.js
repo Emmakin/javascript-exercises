@@ -15,7 +15,7 @@ return num1 * num2
 };
 
 const power = function(num, power) {
-	return num1 ** power
+	return num ** power
 };
 
 const factorial = function() {
