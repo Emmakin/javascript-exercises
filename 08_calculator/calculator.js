@@ -7,11 +7,7 @@ const subtract = function(num1, num2) {
 };
 
 const sum = function([]) {
-   if(sum[0] = NaN){
-  sum.length -1}
-// }else {
-//   sum.length -1;
-// }
+  return sum.length -1
 };
 
 const multiply = function(num1, num2) {
