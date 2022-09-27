@@ -19,7 +19,7 @@ const power = function(num, power) {
 	return num ** power
 };
 
-const factorial = function() {
+const factorial = function(n) {
 	
 };
 
